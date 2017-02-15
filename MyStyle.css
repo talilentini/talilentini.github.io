@@ -1,8 +1,21 @@
+#test{
+  color:purple;  
+}
+
 body{
-  background-color:pink;
-  color: rgb (3, 150, 100);
-  color: rgba(3, 101, 100, 0.75);
-  font-family: 'Old Style', Grotesque; 
+ background-color:white;
+}
+
+#container{
+    padding:25px;
+    margin:25px;
+    border-radius:25px;
+    background-color:pink;
+    color: rgb (3, 150, 100);
+    color: rgba(3, 101, 100, 0.75);
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+  
+
 }
 
 
